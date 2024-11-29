@@ -1,0 +1,1 @@
+javac -d target src/main/java/data/*.java src/main/java/entity/*.java src/main/java/entity/plant/*.java src/main/java/entity/zombie/*.java src/main/java/gui/*.java src/main/java/manager/*.java src/main/java/util/*.java src/main/java/Main.java
